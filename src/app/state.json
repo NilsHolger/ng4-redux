@@ -1,0 +1,4 @@
+{
+	"payload": "[{\"type\":\"ADD_TODO\",\"title\":\"a\"},{\"type\":\"ADD_TODO\",\"title\":\"b\"},{\"type\":\"ADD_TODO\",\"title\":\"c\"},{\"type\":\"REMOVE_TODO\",\"id\":3}]",
+	"preloadedState": "{\"todos\":[],\"lastUpdate\":null}"
+}
